@@ -1,6 +1,3 @@
-if(window.location.hostname.startsWith("sandboxels")) {
-  alert("This is an Infinite Chef mod. It will not work in Sandboxels.")
-} else {
   ingredients.cum = {
     type: "liquid",
     color: [ "#d6d6cb" ],
